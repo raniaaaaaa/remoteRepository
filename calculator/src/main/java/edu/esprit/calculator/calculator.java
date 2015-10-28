@@ -11,7 +11,11 @@ public class calculator {
 		return result;
 		}
 
-	
+	public void(long a,long b){
+		
+		return a*b;
+		
+	}
 		
 	}
 
